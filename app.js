@@ -118,3 +118,18 @@
 // document.write("Value after decrement is:" + " " + --b + "<br />");
 // document.write("The remainder is:" + " " + [b % 4] );
 
+// var ticket = 600;
+// document.write("Total cost to buy 5 tickets to a movie is" + " " + [ticket*5] + "PKR")
+
+// var a = 4;
+// document.write(a + " " + "x" + " " + "1" + " " + "=" + " " + a*1 + "<br />");
+// document.write(a + " " + "x" + " " + "2" + " " + "=" + " " + a*2 + "<br />");
+// document.write(a + " " + "x" + " " + "3" + " " + "=" + " " + a*3 + "<br />");
+// document.write(a + " " + "x" + " " + "4" + " " + "=" + " " + a*4 + "<br />");
+// document.write(a + " " + "x" + " " + "5" + " " + "=" + " " + a*5 + "<br />");
+// document.write(a + " " + "x" + " " + "6" + " " + "=" + " " + a*6 + "<br />");
+// document.write(a + " " + "x" + " " + "7" + " " + "=" + " " + a*7 + "<br />");
+// document.write(a + " " + "x" + " " + "8" + " " + "=" + " " + a*8 + "<br />");
+// document.write(a + " " + "x" + " " + "9" + " " + "=" + " " + a*9 + "<br />");
+// document.write(a + " " + "x" + " " + "10" + " " + "=" + " " + a*10 + "<br />");
+
