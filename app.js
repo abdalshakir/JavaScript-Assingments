@@ -536,15 +536,6 @@
 // devices.shift();
 // document.write(devices);
 
-
-
-
-
-
-
-
-
-
 // Chapter 17 to 20
 
 // var arr = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
@@ -582,6 +573,47 @@
 // for(var i = 10; i >= 0; i--){
 //     document.write(i + " ");
 // }
-// for(var i = 0; i <= 20; i+2){
+// for(var i = 0; i <= 20; i+=2){
 //     document.write(i + " ");
+// }
+// for(var i = 1; i <= 20; i+=2){
+//     document.write(i + " ");
+// }
+// for(var i = 2; i <= 20; i+=2){
+//     document.write(i + "k" + " ");
+// }
+
+// var a = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var b = prompt("Welcome to ABC Bakery. What do you want to order Sir/Ma'am?");
+// var matchFound = "no";
+// for(var i = 0; i < a.length; i++){
+//     if(b === a[i]){
+//         matchFound = "yes";
+//         document.write(a[i] + " " + "is available at index" + " " + i + " " + "in our bakery.")
+//     }
+// }
+// if(matchFound === "no"){
+//     document.write("We are Sorry." + " " + b + " " + "is not available in our bakery.")
+// }
+
+// var a = [24, 53, 78, 91, 12];
+// var max = 0;
+// for(var i = 0; i < a.length; i++){
+//     if(a[i] > max){
+//         max = a[i]
+//     }
+// }
+// document.write(max);
+
+// var a = [24, 53, 78, 91, 12];
+// var min = a[0];
+// for(var i = 0; i < a.length; i++){
+//     if(a[i] < min){
+//         min = a[i]
+//     }
+// }
+// document.write(min);
+
+// for(var i = 5; i <= 100; i+=5){
+//     document.write(i + "," + " ");
 // }
